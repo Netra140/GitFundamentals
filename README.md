@@ -6,7 +6,7 @@ Here is a growing collection of resources and helpful commands when working with
  
 ## Git Commands
 - [git config](./Commands/Config.md)
-- [git init](./Commands/Init.md)
+- [git init](./Commands/init.md)
 - [git add](./Commands/Add.md)
 - [git commit](./Commands/commit.md)
 - [git remote](./Commands/Remote.md)
