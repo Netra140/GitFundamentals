@@ -23,4 +23,4 @@ Init will create a repository in the current directory and will encapsulate all 
 
 ---
 
-[Back to Home](../Readme.md)
+[Back to Home](../README.md)
